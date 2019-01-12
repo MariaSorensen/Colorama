@@ -1,0 +1,13 @@
+Hypothesis - come up with something quantifiable to test in the data we are looking at
+
+Groupby Community Area
+
+Does crime vary by location in Chicago?
+If crime varies by location then the number of crimes in different areas of Chicago will vary.
+
+Does crime vary with population?
+If crimes and population are related, in areas with lower population density the number of crimes committed will be lower. Also if the popluation grows over time so will the number of crimes committed.
+
+After that
+In areas with higher crime rates are there more violent crimes (involving weapons)?
+Are certain
