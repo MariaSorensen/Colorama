@@ -1,0 +1,79 @@
+,Community Area,Crimes Reported,Side,Neighborhood,2010,2000,Difference,Percentage
+0,0.0,3,,,,,,
+1,1.0,5577,Far North Side,Rogers Park,"54,991","63,484","-8,493",-13.40%
+2,2.0,4886,Far North Side,West Ridge,"71,942","73,199","-1,257",-1.70%
+3,3.0,5074,Far North Side,Uptown,"56,362","63,551","-7,189",-11.30%
+4,4.0,2560,Far North Side,Lincoln Square,"39,493","44,574","-5,081",-11.40%
+5,5.0,2062,North Side,North Center,"31,867","31,895",-28,-0.10%
+6,6.0,7460,North Side,Lake View,"94,368","94,817",-449,-0.50%
+7,7.0,5795,North Side,Lincoln Park,"64,116","64,320",-204,-0.30%
+8,8.0,11594,Central,Near North Side,"80,484","72,811","7,673",10.50%
+9,9.0,305,Far North Side,Edison Park,"11,187","11,259",-72,-0.60%
+10,10.0,1444,Far North Side,Norwood Park,"37,023","37,669",-646,-1.70%
+11,11.0,1398,Far North Side,Jefferson Park,"25,448","25,859",-411,-1.60%
+12,12.0,695,Far North Side,Forest Glen,"18,508","18,165",343,1.90%
+13,13.0,1188,Far North Side,North Park,"17,931","18,514",-583,-3.10%
+14,14.0,3550,Far North Side,Albany Park,"51,542","57,655","-6,113",-10.60%
+15,15.0,4639,North Side,Portage Park,"64,124","65,340","-1,216",-1.90%
+16,16.0,4529,North Side,Irving Park,"53,359","58,643","-5,284",-9.00%
+17,17.0,2350,North Side,Dunning,"41,932","42,164",-232,-0.60%
+18,18.0,899,North Side,Montclare,"13,426","12,646",780,6.20%
+19,19.0,7589,North Side,Belmont Cragin,"78,743","78,144",599,0.80%
+20,20.0,2416,North Side,Hermosa,"25,010","26,908","-1,898",-7.10%
+21,21.0,3745,North Side,Avondale,"39,262","43,083","-3,821",-8.90%
+22,22.0,8167,North Side,Logan Square,"73,595","82,715","-9,120",-11.00%
+23,23.0,11829,West Side,Humboldt Park,"56,323","65,836","-9,513",-14.40%
+24,24.0,11361,West Side,West Town,"81,432","87,435","-6,003",-6.90%
+25,25.0,24296,West Side,Austin,"98,514","117,527","-19,013",-16.20%
+26,26.0,6378,West Side,West Garfield Park,"18,001","23,019","-5,018",-21.80%
+27,27.0,6961,West Side,East Garfield Park,"20,567","20,881",-314,-1.50%
+28,28.0,9810,West Side,Near West Side,"54,881","46,419","8,462",18.20%
+29,29.0,10858,West Side,North Lawndale,"35,912","41,768","-5,856",-14.00%
+30,30.0,6291,West Side,South Lawndale,"79,288","91,071","-11,783",-12.90%
+31,31.0,3495,West Side,Lower West Side,"35,769","44,031","-8,262",-18.80%
+32,32.0,7840,Central,Loop,"29,283","16,388","12,895",78.70%
+33,33.0,1999,Central,Near South Side,"21,390","9,509","11,881",124.90%
+34,34.0,1368,South Side,Armour Square,"13,391","12,032","1,359",11.30%
+35,35.0,2933,South Side,Douglas,"18,238","26,470","-8,232",-31.10%
+36,36.0,860,South Side,Oakland,"5,918","6,110",-192,-3.10%
+37,37.0,1215,South Side,Fuller Park,"2,876","3,420",-544,-15.90%
+38,38.0,4682,South Side,Grand Boulevard,"21,929","28,006","-6,077",-21.70%
+39,39.0,2298,South Side,Kenwood,"17,841","18,363",-522,-2.80%
+40,40.0,4053,South Side,Washington Park,"11,717","14,146","-2,429",-17.20%
+41,41.0,2237,South Side,Hyde Park,"25,681","29,920","-4,239",-14.20%
+42,42.0,6486,South Side,Woodlawn,"25,983","27,086","-1,103",-4.10%
+43,43.0,12324,South Side,South Shore,"49,767","61,556","-11,789",-19.20%
+44,44.0,7513,Far Southeast Side,Chatham,"31,028","37,275","-6,247",-16.80%
+45,45.0,1831,Far Southeast Side,Avalon Park,"10,185","11,147",-962,-8.60%
+46,46.0,6782,Far Southeast Side,South Chicago,"31,198","38,596","-7,398",-19.20%
+47,47.0,459,Far Southeast Side,Burnside,"2,916","3,294",-378,-11.50%
+48,48.0,2099,Far Southeast Side,Calumet Heights,"13,812","15,974","-2,162",-13.50%
+49,49.0,10379,Far Southeast Side,Roseland,"44,619","52,723","-8,104",-15.40%
+50,50.0,1376,Far Southeast Side,Pullman,"7,325","8,921","-1,596",-17.90%
+51,51.0,2623,Far Southeast Side,South Deering,"15,109","16,990","-1,881",-11.10%
+52,52.0,1854,Far Southeast Side,East Side,"23,042","23,653",-611,-2.60%
+53,53.0,5978,Far Southeast Side,West Pullman,"29,651","36,649","-6,998",-19.10%
+54,54.0,1396,Far Southeast Side,Riverdale,"6,482","9,809","-3,327",-33.90%
+55,55.0,765,Far Southeast Side,Hegewisch,"9,426","9,781",-355,-3.60%
+56,56.0,2589,Southwest Side,Garfield Ridge,"34,513","36,101","-1,588",-4.40%
+57,57.0,1356,Southwest Side,Archer Heights,"13,393","12,644",749,5.90%
+58,58.0,3532,Southwest Side,Brighton Park,"45,368","44,912",456,1.00%
+59,59.0,1485,Southwest Side,McKinley Park,"15,612","15,962",-350,-2.20%
+60,60.0,2448,South Side,Bridgeport,"31,977","33,694","-1,717",-5.10%
+61,61.0,7740,Southwest Side,New City,"44,377","51,721","-7,344",-14.20%
+62,62.0,1395,Southwest Side,West Elsdon,"18,109","15,921","2,188",13.70%
+63,63.0,3945,Southwest Side,Gage Park,"39,894","39,193",701,1.80%
+64,64.0,1399,Southwest Side,Clearing,"23,139","22,331",808,3.60%
+65,65.0,2771,Southwest Side,West Lawn,"33,355","29,235","4,120",14.10%
+66,66.0,10518,Southwest Side,Chicago Lawn,"55,628","61,412","-5,784",-9.40%
+67,67.0,11223,Southwest Side,West Englewood,"35,505","45,282","-9,777",-21.60%
+68,68.0,10165,Southwest Side,Englewood,"30,654","40,222","-9,568",-23.80%
+69,69.0,9372,South Side,Greater Grand Crossing,"32,602","38,619","-6,017",-15.60%
+70,70.0,3473,Far Southwest Side,Ashburn,"41,081","39,584","1,497",3.80%
+71,71.0,10666,Far Southwest Side,Auburn Gresham,"48,743","55,928","-7,185",-12.80%
+72,72.0,1286,Far Southwest Side,Beverly,"20,034","21,992","-1,958",-8.90%
+73,73.0,4549,Far Southwest Side,Washington Heights,"26,493","29,843","-3,350",-11.20%
+74,74.0,917,Far Southwest Side,Mount Greenwood,"19,093","18,820",273,1.50%
+75,75.0,3162,Far Southwest Side,Morgan Park,"22,544","25,226","-2,682",-10.60%
+76,76.0,1894,Far North Side,O'Hare,"12,756","11,956",800,6.70%
+77,77.0,3672,Far North Side,Edgewater,"56,521","62,198","-5,677",-9.10%
