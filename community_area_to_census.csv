@@ -10,7 +10,6 @@ Number",Public Use Area
 7,Near North Side,8.0,"Chicago City (Central)--Near North Side, Loop & Near South Side PUMA; Illinois"
 8,Edison Park,9.0,"Cook County (North)--Maine, Norwood Park Townships & Chicago City--Edison Park PUMA; Illinois"
 9,Norwood Park,10.0,"Cook County (North)--Maine, Norwood Park Townships & Chicago City--Edison Park PUMA; Illinois"
-10,Norwood Park,10.0,"Cook County (West)--Leyden, Norwood Park (South) Townships & Chicago City--O'Hare PUMA; Illinois"
 11,Jefferson Park,11.0,"Chicago City (Northwest)--Portage Park, Dunning & Jefferson Park PUMA; Illinois"
 12,Forest Glen,12.0,"Chicago City (Northwest)--Irving Park, Albany Park, Forest Glen & North Park PUMA; Illinois"
 13,North Park,13.0,"Chicago City (Northwest)--Irving Park, Albany Park, Forest Glen & North Park PUMA; Illinois"
@@ -27,16 +26,15 @@ Number",Public Use Area
 24,West Town,24.0,"Chicago City (West)--West Town, Near West Side & Lower West Side PUMA; Illinois"
 25,Austin,25.0,"Chicago City (West)--Austin, Belmont Cragin & Montclare PUMA; Illinois"
 26,West Garfield Park,26.0,"Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park PUMA; Illinois"
-27,East Garfield Park,27.0,
+27,East Garfield Park,27.0,"Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park PUMA; Illinois"
 28,Near West Side,28.0,"Chicago City (West)--West Town, Near West Side & Lower West Side PUMA; Illinois"
-29,North Lawndale,29.0,
+29,North Lawndale,29.0,"Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park PUMA; Illinois"
 30,South Lawndale,30.0,"Chicago City (West)--North & South Lawndale, Humboldt Park, East & West Garfield Park PUMA; Illinois"
 31,Lower West Side,31.0,"Chicago City (West)--West Town, Near West Side & Lower West Side PUMA; Illinois"
 32,Loop,32.0,"Chicago City (Central)--Near North Side, Loop & Near South Side PUMA; Illinois"
 33,Near South Side,33.0,"Chicago City (Central)--Near North Side, Loop & Near South Side PUMA; Illinois"
 34,Armour Square,34.0,
-35,Douglas,35.0,"Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas PUMA; Illinois"
-36,Douglas,35.0,"Douglas, Edgar, Coles & Cumberland Counties PUMA; Illinois"
+36,Douglas,35.0,"Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas PUMA; Illinois"
 37,Oakland,36.0,
 38,Fuller Park,37.0,
 39,Grand Boulevard,38.0,"Chicago City (South)--South Shore, Hyde Park, Woodlawn, Grand Boulevard & Douglas PUMA; Illinois"
